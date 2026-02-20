@@ -1,0 +1,350 @@
+Employee ID,Department,Role,Location,Join Date,Salary AED
+1001,Operations,Supervisor,Dubai,26-10-2023,11393
+1002,Operations,Executive,Sharjah,20-06-2021,6101
+1003,Operations,Supervisor,Abu Dhabi,17-09-2024,11878
+1004,Operations,Executive,Abu Dhabi,13-10-2019,6049
+1005,Operations,Manager,Dubai,10-09-2020,23717
+1006,Operations,Supervisor,Dubai,31-05-2018,12287
+1007,Operations,Supervisor,Dubai,10-10-2024,10646
+1008,Operations,Manager,Sharjah,02-12-2017,21949
+1009,Operations,Manager,Abu Dhabi,18-11-2021,23905
+1010,Operations,Manager,Abu Dhabi,25-04-2023,19632
+1011,Operations,Executive,Dubai,12-05-2018,7072
+1012,Operations,Manager,Sharjah,15-06-2019,22943
+1013,Operations,Executive,Sharjah,17-01-2023,7795
+1014,Operations,Supervisor,Dubai,02-05-2019,10975
+1015,Operations,Supervisor,Dubai,15-08-2021,11709
+1016,Operations,Supervisor,Dubai,16-04-2022,12421
+1017,Operations,Supervisor,Dubai,30-06-2024,11870
+1018,Operations,Manager,Abu Dhabi,25-08-2023,20342
+1019,Operations,Supervisor,Dubai,18-04-2021,9003
+1020,Operations,Supervisor,Dubai,15-08-2019,13289
+1021,Operations,Executive,Abu Dhabi,01-07-2024,7373
+1022,Operations,Executive,Dubai,25-06-2021,7187
+1023,Operations,Executive,Dubai,15-07-2020,6917
+1024,Operations,Supervisor,Dubai,11-12-2020,9009
+1025,Operations,Supervisor,Abu Dhabi,06-04-2020,12713
+1026,Operations,Manager,Abu Dhabi,03-12-2019,16994
+1027,Operations,Manager,Dubai,12-10-2017,24310
+1028,Operations,Executive,Abu Dhabi,11-09-2023,6604
+1029,Operations,Manager,Abu Dhabi,12-01-2017,20415
+1030,Operations,Supervisor,Dubai,19-06-2021,9872
+1031,Operations,Supervisor,Abu Dhabi,22-12-2023,11898
+1032,Operations,Supervisor,Dubai,24-01-2019,9600
+1033,Operations,Executive,Dubai,14-09-2022,7449
+1034,Operations,Manager,Sharjah,06-08-2024,17712
+1035,Operations,Executive,Sharjah,06-12-2024,6248
+1036,Operations,Executive,Sharjah,31-03-2017,7151
+1037,Operations,Supervisor,Dubai,15-02-2019,11035
+1038,Operations,Manager,Dubai,06-04-2024,16120
+1039,Operations,Executive,Abu Dhabi,14-06-2021,5950
+1040,Operations,Manager,Dubai,22-02-2018,22326
+1041,Operations,Manager,Dubai,25-04-2017,17371
+1042,Operations,Executive,Abu Dhabi,09-09-2018,5129
+1043,Operations,Manager,Dubai,06-04-2019,21166
+1044,Operations,Manager,Sharjah,08-07-2021,22783
+1045,Operations,Supervisor,Dubai,25-02-2021,9827
+1046,Operations,Executive,Abu Dhabi,17-02-2018,7935
+1047,Operations,Manager,Dubai,30-12-2018,18368
+1048,Operations,Supervisor,Abu Dhabi,09-09-2024,11861
+1049,Operations,Supervisor,Abu Dhabi,07-11-2018,12030
+1050,Operations,Manager,Dubai,08-03-2022,24524
+1051,Operations,Executive,Sharjah,10-11-2023,5201
+1052,Operations,Manager,Abu Dhabi,18-02-2023,22973
+1053,Operations,Supervisor,Sharjah,18-08-2024,12600
+1054,Operations,Manager,Sharjah,28-01-2020,16990
+1055,Operations,Supervisor,Abu Dhabi,21-04-2021,13158
+1056,Operations,Supervisor,Sharjah,05-09-2019,9966
+1057,Operations,Executive,Dubai,06-10-2019,5147
+1058,Operations,Executive,Dubai,14-11-2022,6383
+1059,Operations,Manager,Dubai,15-08-2021,17079
+1060,Operations,Supervisor,Dubai,03-06-2024,13524
+1061,Operations,Manager,Dubai,06-02-2017,21645
+1062,Operations,Executive,Dubai,29-03-2021,7161
+1063,Operations,Executive,Sharjah,16-05-2023,5054
+1064,Operations,Executive,Dubai,15-03-2023,7134
+1065,Operations,Executive,Dubai,24-12-2024,5832
+1066,Operations,Supervisor,Abu Dhabi,23-05-2019,12300
+1067,Operations,Executive,Dubai,27-12-2021,6287
+1068,Operations,Executive,Sharjah,20-07-2020,5181
+1069,Operations,Supervisor,Dubai,11-10-2022,12156
+1070,Operations,Executive,Sharjah,19-08-2018,5914
+1071,Operations,Manager,Abu Dhabi,19-03-2022,19491
+1072,Operations,Executive,Dubai,30-12-2018,5804
+1073,Operations,Executive,Dubai,27-09-2020,7761
+1074,Operations,Executive,Sharjah,01-02-2018,7573
+1075,Operations,Executive,Abu Dhabi,30-11-2018,6781
+1076,Operations,Supervisor,Abu Dhabi,03-02-2023,11657
+1077,Operations,Manager,Abu Dhabi,24-06-2021,20475
+1078,Operations,Executive,Dubai,31-01-2018,7981
+1079,Operations,Supervisor,Dubai,29-10-2023,13826
+1080,Operations,Executive,Dubai,17-03-2017,7040
+1081,Operations,Executive,Sharjah,22-09-2017,5701
+1082,Operations,Supervisor,Abu Dhabi,08-11-2023,11866
+1083,Operations,Supervisor,Dubai,25-12-2021,12850
+1084,Operations,Executive,Dubai,19-12-2018,5186
+1085,Operations,Manager,Dubai,14-08-2024,22479
+1086,Operations,Executive,Dubai,01-05-2019,6785
+1087,Operations,Manager,Abu Dhabi,22-10-2020,16524
+1088,Operations,Executive,Abu Dhabi,24-05-2017,7760
+1089,Operations,Supervisor,Sharjah,04-06-2019,12569
+1090,Operations,Manager,Abu Dhabi,31-01-2018,19090
+1091,Operations,Executive,Dubai,01-02-2021,6040
+1092,Operations,Supervisor,Abu Dhabi,13-03-2020,13062
+1093,Operations,Executive,Abu Dhabi,01-03-2024,7421
+1094,Operations,Executive,Abu Dhabi,29-11-2019,6561
+1095,Operations,Executive,Abu Dhabi,27-11-2022,6817
+1096,Operations,Executive,Abu Dhabi,02-12-2019,5136
+1097,Operations,Supervisor,Abu Dhabi,24-04-2020,9934
+1098,Operations,Manager,Dubai,12-09-2023,17667
+1099,Operations,Executive,Dubai,26-09-2018,6121
+1100,Operations,Manager,Dubai,02-03-2020,20468
+1101,Operations,Supervisor,Dubai,23-05-2020,13111
+1102,Operations,Supervisor,Abu Dhabi,03-01-2019,12241
+1103,Operations,Manager,Dubai,23-08-2017,22206
+1104,Operations,Supervisor,Abu Dhabi,29-05-2024,13572
+1105,Operations,Executive,Sharjah,21-01-2019,5271
+1106,Operations,Supervisor,Dubai,20-03-2024,13435
+1107,Operations,Manager,Dubai,12-08-2019,15145
+1108,Operations,Supervisor,Abu Dhabi,15-12-2023,9704
+1109,Operations,Manager,Dubai,23-03-2021,16828
+1110,Operations,Executive,Dubai,12-04-2020,5938
+1111,Operations,Supervisor,Dubai,04-08-2021,13867
+1112,Operations,Executive,Dubai,06-04-2020,6333
+1113,Operations,Supervisor,Sharjah,27-01-2023,9936
+1114,Operations,Supervisor,Sharjah,17-11-2020,9726
+1115,Operations,Executive,Abu Dhabi,13-10-2024,6596
+1116,Operations,Supervisor,Sharjah,05-05-2024,13255
+1117,Operations,Executive,Sharjah,02-05-2020,7030
+1118,Operations,Executive,Dubai,21-03-2021,6290
+1119,Operations,Executive,Sharjah,08-09-2022,7785
+1120,Operations,Executive,Abu Dhabi,16-12-2020,6418
+1121,Operations,Supervisor,Sharjah,15-07-2023,9913
+1122,Operations,Executive,Sharjah,28-02-2021,5795
+1123,Sales,Manager,Dubai,20-10-2020,16591
+1124,Sales,Manager,Dubai,31-01-2022,16312
+1125,Sales,Manager,Dubai,27-09-2020,16704
+1126,Sales,Executive,Dubai,15-05-2018,5362
+1127,Sales,Executive,Sharjah,08-08-2021,7469
+1128,Sales,Executive,Sharjah,26-05-2018,6054
+1129,Sales,Executive,Dubai,05-08-2017,7129
+1130,Sales,Executive,Abu Dhabi,17-08-2020,6547
+1131,Sales,Executive,Dubai,01-03-2020,6256
+1132,Sales,Manager,Dubai,02-01-2022,20352
+1133,Sales,Manager,Dubai,16-12-2021,17382
+1134,Sales,Manager,Dubai,29-10-2023,16265
+1135,Sales,Manager,Sharjah,20-04-2020,23073
+1136,Sales,Manager,Dubai,24-01-2023,21353
+1137,Sales,Manager,Abu Dhabi,01-04-2017,23954
+1138,Sales,Executive,Abu Dhabi,15-12-2018,5947
+1139,Sales,Executive,Dubai,25-02-2022,7926
+1140,Sales,Manager,Sharjah,08-02-2017,17844
+1141,Sales,Executive,Sharjah,22-06-2017,6098
+1142,Sales,Manager,Dubai,15-10-2018,15988
+1143,Sales,Executive,Abu Dhabi,24-01-2019,7350
+1144,Sales,Executive,Dubai,28-05-2020,6410
+1145,Sales,Manager,Dubai,18-12-2019,15791
+1146,Sales,Manager,Dubai,11-08-2021,20179
+1147,Sales,Manager,Abu Dhabi,29-11-2023,23782
+1148,Sales,Executive,Abu Dhabi,01-04-2018,6709
+1149,Sales,Executive,Dubai,09-04-2019,6559
+1150,Sales,Executive,Dubai,14-06-2019,7781
+1151,Sales,Manager,Sharjah,16-10-2020,20463
+1152,Sales,Manager,Dubai,13-05-2022,23465
+1153,Sales,Manager,Dubai,01-09-2023,23357
+1154,Sales,Manager,Abu Dhabi,20-06-2022,18496
+1155,Sales,Manager,Sharjah,24-07-2023,24768
+1156,Sales,Executive,Dubai,09-07-2017,7635
+1157,Sales,Manager,Abu Dhabi,20-05-2018,21047
+1158,Sales,Manager,Abu Dhabi,29-04-2020,16949
+1159,Sales,Executive,Dubai,12-03-2021,7636
+1160,Sales,Manager,Abu Dhabi,04-04-2019,15105
+1161,Sales,Executive,Dubai,18-07-2019,5427
+1162,Sales,Manager,Abu Dhabi,23-07-2019,15552
+1163,Sales,Manager,Abu Dhabi,15-02-2020,18389
+1164,Sales,Manager,Abu Dhabi,14-05-2017,15458
+1165,Sales,Manager,Dubai,07-10-2022,15021
+1166,Sales,Manager,Sharjah,16-11-2018,19109
+1167,Sales,Executive,Dubai,12-06-2024,7134
+1168,Sales,Manager,Dubai,30-01-2023,17356
+1169,Sales,Executive,Dubai,27-01-2022,7335
+1170,Sales,Executive,Abu Dhabi,26-03-2019,5661
+1171,Sales,Executive,Abu Dhabi,18-03-2020,7971
+1172,Sales,Manager,Dubai,21-03-2017,22005
+1173,Sales,Executive,Abu Dhabi,22-07-2017,5158
+1174,Sales,Executive,Dubai,12-09-2024,5515
+1175,Sales,Manager,Abu Dhabi,06-06-2020,21563
+1176,Sales,Manager,Dubai,27-08-2021,24633
+1177,Sales,Manager,Abu Dhabi,04-06-2020,16394
+1178,Sales,Manager,Dubai,10-08-2021,15529
+1179,Sales,Manager,Sharjah,05-04-2021,18591
+1180,Sales,Manager,Dubai,26-09-2022,15525
+1181,Sales,Manager,Dubai,10-06-2020,19648
+1182,Sales,Manager,Dubai,30-03-2021,19599
+1183,Sales,Executive,Sharjah,12-03-2020,7008
+1184,Sales,Executive,Sharjah,28-10-2020,7040
+1185,Sales,Executive,Dubai,27-05-2024,7046
+1186,Sales,Executive,Abu Dhabi,16-04-2018,7334
+1187,Sales,Manager,Sharjah,02-11-2019,18432
+1188,Sales,Executive,Abu Dhabi,15-09-2020,7180
+1189,Sales,Manager,Abu Dhabi,15-08-2024,18568
+1190,Sales,Manager,Dubai,02-10-2024,16925
+1191,Sales,Manager,Dubai,26-08-2019,15968
+1192,Sales,Executive,Sharjah,24-12-2017,6316
+1193,Sales,Executive,Sharjah,30-10-2018,5197
+1194,Sales,Executive,Abu Dhabi,08-01-2018,6008
+1195,Sales,Executive,Dubai,29-10-2019,7289
+1196,Sales,Executive,Dubai,20-02-2020,6208
+1197,Sales,Manager,Abu Dhabi,03-10-2020,15891
+1198,Sales,Executive,Sharjah,16-06-2024,7033
+1199,Sales,Executive,Sharjah,31-03-2017,6381
+1200,Sales,Manager,Abu Dhabi,08-07-2024,22705
+1201,Sales,Manager,Abu Dhabi,24-06-2018,19440
+1202,Sales,Manager,Dubai,11-08-2024,23125
+1203,Sales,Manager,Dubai,19-05-2019,22848
+1204,Sales,Executive,Sharjah,10-02-2017,5687
+1205,Sales,Executive,Abu Dhabi,10-01-2019,6347
+1206,Sales,Manager,Dubai,01-05-2022,24042
+1207,Sales,Executive,Dubai,25-12-2023,6354
+1208,Sales,Executive,Abu Dhabi,09-05-2020,7772
+1209,Sales,Executive,Dubai,18-07-2019,5916
+1210,IT,Engineer,Dubai,30-07-2022,18434
+1211,IT,Manager,Abu Dhabi,14-11-2023,22117
+1212,IT,Manager,Abu Dhabi,11-08-2024,21228
+1213,IT,Manager,Abu Dhabi,31-08-2024,16177
+1214,IT,Engineer,Dubai,14-07-2019,15022
+1215,IT,Manager,Abu Dhabi,01-05-2021,21570
+1216,IT,Engineer,Dubai,25-01-2018,16431
+1217,IT,Engineer,Dubai,06-06-2021,15854
+1218,IT,Manager,Abu Dhabi,13-09-2017,18610
+1219,IT,Engineer,Abu Dhabi,10-12-2018,16097
+1220,IT,Manager,Sharjah,13-01-2022,22052
+1221,IT,Engineer,Abu Dhabi,29-04-2022,17203
+1222,IT,Manager,Abu Dhabi,03-11-2023,20495
+1223,IT,Engineer,Dubai,10-01-2017,18869
+1224,IT,Engineer,Dubai,11-11-2024,17752
+1225,IT,Manager,Dubai,09-03-2019,16316
+1226,IT,Manager,Dubai,27-05-2019,15145
+1227,IT,Engineer,Sharjah,26-10-2019,12482
+1228,IT,Manager,Dubai,13-10-2019,17852
+1229,IT,Engineer,Sharjah,30-12-2021,12649
+1230,IT,Manager,Abu Dhabi,09-01-2018,19358
+1231,IT,Engineer,Abu Dhabi,03-01-2023,16795
+1232,IT,Engineer,Abu Dhabi,12-08-2017,14601
+1233,IT,Engineer,Abu Dhabi,16-06-2020,17860
+1234,IT,Engineer,Abu Dhabi,03-02-2023,15046
+1235,IT,Engineer,Dubai,08-12-2021,14475
+1236,IT,Manager,Abu Dhabi,03-05-2019,23258
+1237,IT,Manager,Dubai,04-03-2017,20291
+1238,IT,Manager,Dubai,25-05-2020,24686
+1239,IT,Manager,Abu Dhabi,14-11-2024,18374
+1240,IT,Engineer,Dubai,13-10-2024,14493
+1241,IT,Engineer,Sharjah,20-11-2018,16752
+1242,IT,Manager,Sharjah,24-01-2021,19443
+1243,IT,Engineer,Sharjah,22-06-2021,17367
+1244,IT,Engineer,Dubai,23-11-2022,18549
+1245,IT,Manager,Dubai,26-05-2018,24715
+1246,IT,Manager,Sharjah,20-01-2018,21257
+1247,IT,Engineer,Dubai,09-02-2018,14817
+1248,IT,Engineer,Sharjah,10-11-2024,15267
+1249,IT,Manager,Sharjah,02-06-2018,20435
+1250,IT,Engineer,Sharjah,21-04-2018,19406
+1251,IT,Manager,Dubai,24-06-2022,22629
+1252,IT,Manager,Dubai,19-07-2024,22842
+1253,IT,Manager,Sharjah,27-07-2021,22373
+1254,IT,Manager,Dubai,09-03-2022,19259
+1255,IT,Engineer,Dubai,19-09-2024,12237
+1256,IT,Engineer,Abu Dhabi,31-12-2020,19559
+1257,IT,Manager,Sharjah,17-06-2024,23734
+1258,IT,Manager,Abu Dhabi,15-12-2018,17719
+1259,IT,Engineer,Abu Dhabi,24-03-2017,17179
+1260,IT,Engineer,Dubai,14-03-2020,18525
+1261,IT,Manager,Abu Dhabi,10-11-2023,20448
+1262,HR,Manager,Sharjah,17-03-2022,23591
+1263,HR,Manager,Dubai,11-08-2022,16403
+1264,HR,Manager,Abu Dhabi,20-02-2017,18302
+1265,HR,Manager,Sharjah,16-11-2018,16549
+1266,HR,Analyst,Abu Dhabi,18-12-2018,9645
+1267,HR,Manager,Abu Dhabi,09-01-2021,21793
+1268,HR,Analyst,Abu Dhabi,25-03-2018,7900
+1269,HR,Analyst,Dubai,31-05-2019,11268
+1270,HR,Analyst,Dubai,03-05-2018,11795
+1271,HR,Manager,Sharjah,29-12-2021,20827
+1272,HR,Manager,Sharjah,13-09-2022,19839
+1273,HR,Analyst,Sharjah,13-11-2022,10804
+1274,HR,Manager,Sharjah,24-04-2021,15016
+1275,HR,Manager,Abu Dhabi,11-01-2023,21172
+1276,HR,Analyst,Abu Dhabi,07-09-2017,10897
+1277,HR,Manager,Abu Dhabi,05-11-2018,21869
+1278,HR,Manager,Abu Dhabi,14-03-2018,22340
+1279,HR,Analyst,Abu Dhabi,06-12-2022,9148
+1280,HR,Analyst,Abu Dhabi,10-02-2019,10456
+1281,HR,Manager,Sharjah,25-09-2017,15365
+1282,HR,Manager,Dubai,08-06-2022,20510
+1283,HR,Analyst,Dubai,14-12-2019,7562
+1284,HR,Manager,Dubai,24-08-2017,24765
+1285,HR,Analyst,Abu Dhabi,24-01-2018,10291
+1286,HR,Manager,Dubai,02-02-2019,24154
+1287,HR,Analyst,Abu Dhabi,23-01-2022,8613
+1288,HR,Analyst,Abu Dhabi,15-09-2023,7369
+1289,HR,Analyst,Dubai,16-09-2018,7769
+1290,HR,Manager,Abu Dhabi,15-09-2024,23714
+1291,HR,Manager,Dubai,06-06-2020,20784
+1292,HR,Manager,Dubai,10-12-2024,17461
+1293,HR,Manager,Sharjah,01-08-2018,15685
+1294,HR,Analyst,Dubai,24-10-2022,10988
+1295,HR,Manager,Dubai,11-03-2018,22697
+1296,HR,Analyst,Abu Dhabi,21-11-2022,7301
+1297,Finance,Analyst,Abu Dhabi,03-02-2019,7597
+1298,Finance,Manager,Dubai,17-08-2024,19558
+1299,Finance,Manager,Abu Dhabi,24-10-2024,19183
+1300,Finance,Manager,Dubai,22-08-2020,16724
+1301,Finance,Analyst,Dubai,16-11-2022,7514
+1302,Finance,Analyst,Abu Dhabi,16-10-2024,8304
+1303,Finance,Manager,Abu Dhabi,20-09-2020,21019
+1304,Finance,Manager,Abu Dhabi,16-12-2024,17520
+1305,Finance,Manager,Abu Dhabi,19-10-2023,17159
+1306,Finance,Analyst,Sharjah,23-03-2018,9547
+1307,Finance,Manager,Abu Dhabi,11-07-2022,16037
+1308,Finance,Analyst,Dubai,24-08-2020,10983
+1309,Finance,Manager,Abu Dhabi,06-09-2017,24596
+1310,Finance,Manager,Dubai,15-06-2017,22321
+1311,Finance,Analyst,Dubai,20-09-2020,11917
+1312,Finance,Manager,Dubai,17-10-2019,17563
+1313,Finance,Analyst,Dubai,26-06-2018,10586
+1314,Finance,Manager,Sharjah,29-01-2019,15593
+1315,Finance,Analyst,Sharjah,30-10-2022,10259
+1316,Finance,Manager,Abu Dhabi,21-12-2022,15541
+1317,Finance,Manager,Dubai,08-03-2019,23623
+1318,Finance,Analyst,Dubai,18-05-2017,11278
+1319,Finance,Analyst,Dubai,10-02-2023,8136
+1320,Finance,Analyst,Dubai,15-09-2020,8836
+1321,Finance,Manager,Abu Dhabi,03-10-2024,17125
+1322,Finance,Manager,Abu Dhabi,19-02-2022,20624
+1323,Finance,Manager,Abu Dhabi,10-03-2017,20068
+1324,Finance,Analyst,Dubai,07-02-2024,9757
+1325,Finance,Analyst,Sharjah,02-10-2022,7546
+1326,Finance,Analyst,Abu Dhabi,13-01-2021,9096
+1327,Finance,Manager,Abu Dhabi,24-07-2017,18384
+1328,Finance,Manager,Abu Dhabi,14-12-2022,22531
+1329,Finance,Manager,Dubai,12-02-2017,19713
+1330,Finance,Manager,Dubai,22-03-2022,16974
+1331,Finance,Manager,Dubai,29-11-2022,17014
+1332,Admin,Supervisor,Abu Dhabi,31-01-2019,9840
+1333,Admin,Supervisor,Dubai,05-12-2024,11297
+1334,Admin,Executive,Dubai,13-11-2022,7243
+1335,Admin,Supervisor,Dubai,18-06-2022,12726
+1336,Admin,Executive,Dubai,20-04-2022,6449
+1337,Admin,Executive,Sharjah,19-06-2019,5164
+1338,Admin,Supervisor,Abu Dhabi,26-12-2017,9370
+1339,Admin,Executive,Abu Dhabi,16-09-2021,7208
+1340,Admin,Executive,Dubai,08-10-2017,7336
+1341,Admin,Supervisor,Abu Dhabi,03-03-2022,12669
+1342,Admin,Supervisor,Abu Dhabi,29-10-2018,13293
+1343,Admin,Supervisor,Dubai,03-04-2017,10537
+1344,Admin,Supervisor,Dubai,03-11-2018,13530
+1345,Admin,Supervisor,Dubai,24-05-2022,13666
+1346,Admin,Supervisor,Abu Dhabi,02-03-2017,11608
+1347,Admin,Supervisor,Abu Dhabi,05-05-2024,13979
+1348,Admin,Supervisor,Dubai,26-10-2019,11675
+1349,Admin,Executive,Dubai,29-01-2021,7727
